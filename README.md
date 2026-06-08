@@ -21,7 +21,7 @@ I'm a second-year computing student at MTU with a strong interest in software de
 
 **[LibrarySYS](https://github.com/dan-1379/LibrarySYS)** — Desktop library management system built with C# and Oracle DB. Features loan processing, fine management, and PDF receipt generation.
 
-**[LibrarySYS-PHP](https://github.com/dan-1379/LibrarySYS-PHP)** — Web-based library system using a three-tier Service-Repository architecture with PHP, MariaDB, and Chart.js dashboards.
+**[LibrarySYS-PHP](https://github.com/dan-1379/LibrarySYS-PHP)** — Web-based library system using a three-tier Service-Repository architecture with PHP, MariaDB, and FPDF receipt generation.
 
 **[Skulduggery-Pleasant-Project](https://github.com/dan-1379/Skulduggery-Pleasant-Project)** — Website based on the popular book series built using ReactJS and Tailwind CSS.
 
